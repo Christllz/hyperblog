@@ -1,3 +1,7 @@
 El rodio es un elemento de la tabla periodica
 
 Fue inventado por el quimico Jairo Cevedo
+
+Es un elemento que escucho por primera vez
+
+y es solo un ejemplo para aprender mas sobre git.
